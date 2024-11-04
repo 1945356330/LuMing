@@ -6,5 +6,6 @@
 
 3.光猫出库算法说明文档 
 
-4.yolov8用Tensort推理 
+4.yolov8用Tensort推理（yolo-det-tensort） 
+
 
